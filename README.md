@@ -2,5 +2,5 @@
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Data Science
 - Pursuing B.E-CSE(DataScience) Degree at Annamalai University
-- DataScientist,DataAnalyst
-- Frontend Developer 
+- DataScientist
+- Data Analyst 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavirajmanikandan
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Data Science
-- Pursuing B.E-CSE(DataScience) Degree at Annamalai University
-- DataScientist
-- Data Analyst 
+- 👀 I’m interested in Software development 
+- 🌱 I’m currently learning Java Fullstack 
+- Completed B.E-CSE(DataScience) Degree at Annamalai University
+- Data Analyst
+- Fullstack Developer 
